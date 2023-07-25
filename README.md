@@ -1,2 +1,2 @@
 ### Devops_Projects
-- This is a personal repository created by me to document my work.
+- This repository entails my personal projects in my journey to become a devops engineer.
